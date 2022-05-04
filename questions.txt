@@ -1,0 +1,27 @@
+FB;Java is an _____-oriented language;object;5
+MC;An "abstract class" that acts as a contract for common methods and instance variables in participating objects.;4;Class;Object;Child;Interface;D;10
+TF;A superclass's constructor must always invoke the subclass's constructor first.;false;12
+MC;@param is a:;3;Instance Variable;Class Variable;Javadoc Tag;C;10
+TF;An unchecked exception doesn't need to be caught;true;4
+MC;NullPointerException is ___________;2;Checked;Unchecked;B;6
+FB;In Java "2==1||3!=4" evaluates to _______.;true;4
+MC;Having multiple methods with the same name but different parameters is called what in Java?;3;Overriding;Overloading;Instantiating;B;4
+MC;Which keyword indicates some class inherits another?;3;private;extends;implements;b;3
+FB;To reference a particular instance of a class's variable, we use the keyword ____.varname.;this;10
+TF;Is .toString() a method of Object?;true;4
+TF;Is .size() a method of Object?;false;4
+MC;Which method generates a duplicate of an object?;3;clone();copy();duplicate();a;5
+TF;Can an object contain both static and non-static methods?;true;4
+FB;Finish the line: public ______ void main;static;10
+MC;What keyword can make outside classes available?;2;implement;import;b;2
+TF;Do you need to import any packages to use the Random class?;true;1
+TF;Float uses more bits than double;false;1
+MC;Which keyword can you use to check, and subsequently handle, exceptions and errors?;4;try;catch;throw;throws;a;10
+FB;The usual starter program in any language is _____ World.;hello;1
+TF;String are mutable.;false;1
+MC;What characters do you use to access an array via index number?;3;();{};[];c;3
+FB;Calling a method from within itself is one of the key indicators of a ________ method;recursive;4
+FB;_______is the best CISC class.;230;3
+TF;Keywords can be used as method names;false;2
+TF;Variable names can start with a number;false;3
+MC;What method can you use to check equality between objects?;3;isEqual();compare();equals();c;10
